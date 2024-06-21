@@ -1,0 +1,13 @@
+form, input{
+    text-align: left;
+    padding: 0.1px;
+}
+button{
+    text-align: left;
+}
+header, h1{
+  color: rgba(16, 16, 207, 0.773);
+}
+body{
+ background-color: darkslategray; text-align: center; color: floralwhite;
+}
